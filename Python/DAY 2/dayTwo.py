@@ -35,9 +35,10 @@ x = name.replace('Sobit', 'Rohit')
 print(x, hex(id(x)))
 """
 
-
-
-
+# 🚀 Lists in python
+my_list = ['laptop', 199, True, 232.22]
+for list in my_list:
+    print(list)
 
 
 
